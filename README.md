@@ -11,7 +11,7 @@
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Go Styleguide](https://github.com/bahlo/go-styleguide) [中文翻译](https://github.com/cch123/go-styleguide/blob/master/README_zhcn.md)
 - [Go testing style guide](https://arp242.net/weblog/go-testing-style.html)
-- []()
+- [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go#use-consistent-spelling-of-certain-words)
 
 
 - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
