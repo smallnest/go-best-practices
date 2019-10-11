@@ -6,6 +6,7 @@
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Common Mistakes](https://github.com/golang/go/wiki/CommonMistakes)
+- [Uber Go Style Guide](https://github.com/uber-go/guide)
 
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
