@@ -14,6 +14,7 @@
 - [Go testing style guide](https://arp242.net/weblog/go-testing-style.html)
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go#use-consistent-spelling-of-certain-words)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
+- [Go Advices](https://github.com/cristaloleg/go-advices)
 
 
 - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
