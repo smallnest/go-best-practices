@@ -15,6 +15,8 @@
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go#use-consistent-spelling-of-certain-words)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
 - [Go Advices](https://github.com/cristaloleg/go-advices)
+- [go-perfbook](https://github.com/dgryski/go-perfbook)
+
 
 
 - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
