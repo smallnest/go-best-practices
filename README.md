@@ -2,7 +2,7 @@
 
 
 ## Resources
-
+- [go proverbs](https://go-proverbs.github.io)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Common Mistakes](https://github.com/golang/go/wiki/CommonMistakes)
