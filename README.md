@@ -15,7 +15,7 @@
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go#use-consistent-spelling-of-certain-words)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
 - [Go Advices](https://github.com/cristaloleg/go-advices)
-- [go-perfbook](https://github.com/dgryski/go-perfbook)
+- [go-perfbook](https://github.com/dgryski/go-perfbook) [中文翻译](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 
 
 
