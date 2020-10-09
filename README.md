@@ -21,3 +21,5 @@
 
 
 - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
+
+- [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
